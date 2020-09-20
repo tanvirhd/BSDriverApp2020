@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BSDriverApp2020</string>
+    <string name="title_activity_home">Map</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#084042</color>
+    <color name="colorPrimaryDark">#042526</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#BF0000</color>
+    <color name="ash">#D8C5C5C5</color>
+    <color name="lite_ash">#D8EDEDED</color>
+    <color name="pilyline">#1285B8</color>
+    <color name="blue">#03A9F4</color>
+    <color name="name">#95C8DF</color>
+    <color name="litered">#F44336</color>
+    <color name="litegreen">#4CAF50</color>
+</resources>
